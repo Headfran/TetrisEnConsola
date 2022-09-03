@@ -1,0 +1,27 @@
+[
+{
+  "directory": "C:/Users/Javi/Desktop/Ejercicios en Code Blocks/Tetris en Consola/Build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\TetrisCMD.dir\\main.cpp.obj -c \"C:\\Users\\Javi\\Desktop\\Ejercicios en Code Blocks\\Tetris en Consola\\main.cpp\"",
+  "file": "C:/Users/Javi/Desktop/Ejercicios en Code Blocks/Tetris en Consola/main.cpp"
+},
+{
+  "directory": "C:/Users/Javi/Desktop/Ejercicios en Code Blocks/Tetris en Consola/Build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\TetrisCMD.dir\\Classes\\Game.cpp.obj -c \"C:\\Users\\Javi\\Desktop\\Ejercicios en Code Blocks\\Tetris en Consola\\Classes\\Game.cpp\"",
+  "file": "C:/Users/Javi/Desktop/Ejercicios en Code Blocks/Tetris en Consola/Classes/Game.cpp"
+},
+{
+  "directory": "C:/Users/Javi/Desktop/Ejercicios en Code Blocks/Tetris en Consola/Build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\TetrisCMD.dir\\Classes\\Bloque.cpp.obj -c \"C:\\Users\\Javi\\Desktop\\Ejercicios en Code Blocks\\Tetris en Consola\\Classes\\Bloque.cpp\"",
+  "file": "C:/Users/Javi/Desktop/Ejercicios en Code Blocks/Tetris en Consola/Classes/Bloque.cpp"
+},
+{
+  "directory": "C:/Users/Javi/Desktop/Ejercicios en Code Blocks/Tetris en Consola/Build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\TetrisCMD.dir\\Classes\\Vector2.cpp.obj -c \"C:\\Users\\Javi\\Desktop\\Ejercicios en Code Blocks\\Tetris en Consola\\Classes\\Vector2.cpp\"",
+  "file": "C:/Users/Javi/Desktop/Ejercicios en Code Blocks/Tetris en Consola/Classes/Vector2.cpp"
+},
+{
+  "directory": "C:/Users/Javi/Desktop/Ejercicios en Code Blocks/Tetris en Consola/Build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\TetrisCMD.dir\\Classes\\Timer.cpp.obj -c \"C:\\Users\\Javi\\Desktop\\Ejercicios en Code Blocks\\Tetris en Consola\\Classes\\Timer.cpp\"",
+  "file": "C:/Users/Javi/Desktop/Ejercicios en Code Blocks/Tetris en Consola/Classes/Timer.cpp"
+}
+]

@@ -1,0 +1,3 @@
+C:/Users/Javi/Desktop/Ejercicios en Code Blocks/Tetris en Consola/Build/CMakeFiles/TetrisCMD.dir
+C:/Users/Javi/Desktop/Ejercicios en Code Blocks/Tetris en Consola/Build/CMakeFiles/edit_cache.dir
+C:/Users/Javi/Desktop/Ejercicios en Code Blocks/Tetris en Consola/Build/CMakeFiles/rebuild_cache.dir
